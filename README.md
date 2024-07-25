@@ -51,10 +51,3 @@ We welcome contributions to improve Flappy Cat! Here’s how you can help:
 - Fork the repository, create a new branch, and submit a pull request with your changes.
 - Write tests for new features and bug fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Inspired by the classic Flappy Bird game.
-- Thanks to the Flutter and Firebase communities for their excellent resources and support.
-```
